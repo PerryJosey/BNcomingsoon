@@ -178,25 +178,25 @@ header:
 #         icon: "fa-brands fa-instagram"
 #         url: "https://www.instagram.com/"
 
-### Contact [ contactSection ]
-contact:
-  enable: true
-  image: "/images/contact-section.jpg"
-  title: "Get in touch"
-  text: "<p>Be the first to know what's up with Condo Kitchen. We would love to hear from you.</p>"
-  formspreeURL: "https://formspree.io/f/mdojprlw"
-  contactInfo:
-      # - title: "Address"
-      #   icon: "fa-solid fa-location-dot"
-      #   text: "Kinglake West VIC 3757, Australia"
+# ### Contact [ contactSection ]
+# contact:
+#   enable: true
+#   image: "/images/contact-section.jpg"
+#   title: "Get in touch"
+#   text: "<p>Be the first to know what's up with Condo Kitchen. We would love to hear from you.</p>"
+#   formspreeURL: "https://formspree.io/f/mdojprlw"
+#   contactInfo:
+#       # - title: "Address"
+#       #   icon: "fa-solid fa-location-dot"
+#       #   text: "Kinglake West VIC 3757, Australia"
 
-      # - title: "Phone number"
-      #   icon: "fas fa-phone"
-      #   text: "+61383766284"
+#       # - title: "Phone number"
+#       #   icon: "fas fa-phone"
+#       #   text: "+61383766284"
 
-      # - title: "Email"
-      #   icon: "fas fa-paper-plane"
-      #   text: "youremail@youremailaddress.com"
+#       # - title: "Email"
+#       #   icon: "fas fa-paper-plane"
+#       #   text: "youremail@youremailaddress.com"
   
 
 ### Subscribe [ subscribeSection ]
