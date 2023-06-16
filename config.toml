@@ -512,7 +512,7 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
 
 # Main Settings
 [params]
-defaultLogo = "Woody"
+#defaultLogo = "Woody"
 defaultKeywords = ["clean", "minimal", "blog", "responsive", "google analytics", "bootstrap", "under construction", "coming soon", "modern", "countdown", "hugo theme", "creative"]
 defaultDescription = "BubblesNetworks Coming Soon"
 dateFormat = "January 2, 2006"

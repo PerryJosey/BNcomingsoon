@@ -4,15 +4,17 @@
 ### Header [ headerSection ]
 header:
   enable: true
-  logo: "/images/logo.png"
-  widthLogo: 230
-  heightLogo: 157
-  title: "Bubbles Networks Coming Soon"
-  description: "Introducing Bubbles Networks. Stay connected to your community.<br />
-  
-  On your terms. Be aware, be informed, be connected.<br />
-  
-  Local knowledge in the palm of your hand.
+  # logo: "/images/logo.png"
+  # widthLogo: 230
+  # heightLogo: 157
+  title: "BubblesNetworks<br > 
+  Coming Soon to Your Building"
+  description: "Introducing BubblesNetworks.com, a new service coming soon to your building!<br >
+  It's the first communication network designed specifically for high-rise living,<br >
+  providing hyper-local information 24/7. With BubblesNetworks, you can save time<br >
+  and money by accessing and receiving important alerts, offers, and opportunities <br >
+  tailored specifically to your building. Stay informed about what's happening <br >
+  within your community and make the most of your living experience!
 "
   # countdown: "Oct 27, 2024 20:39:00"
   # urlMouse: "#about"
